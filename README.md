@@ -135,7 +135,8 @@ Let's add a link to MDN to define HTML. We'll use the`<a>` tag for this. Add
 this to our existing `<p>`:
 
 ```html
-  We're writing <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> markup to display in our <strong>browser</strong>.
+  We're writing 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> markup to display in our <strong>browser</strong>.
 ```
 
 Notice that HTML attributes are shown alongside their opening tag e.g. the
